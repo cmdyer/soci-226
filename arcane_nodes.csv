@@ -1,0 +1,78 @@
+﻿name,gender,real,jinx,family,residence
+Amara,F,TRUE,FALSE,5,Piltover
+Ambessa,F,TRUE,FALSE,4,Noxus
+Apothecary,F,TRUE,FALSE,11,Zaun
+Babette,F,TRUE,FALSE,11,Zaun
+Benzo,M,TRUE,FALSE,11,Zaun
+Bolbok,M,TRUE,FALSE,11,Piltover
+Burly Henchman,M,TRUE,FALSE,11,Zaun
+Caitlyn,F,TRUE,FALSE,2,Piltover
+Caitlyn (Jinx's Hallucination),F,FALSE,FALSE,2,Piltover
+Claggor,M,TRUE,FALSE,11,Zaun
+Claggor (Jinx's Hallucination),M,FALSE,FALSE,11,Zaun
+Deckard,M,TRUE,FALSE,11,Zaun
+Duty Capitan,M,TRUE,FALSE,11,Piltover
+Ekko,M,TRUE,FALSE,11,Zaun
+Elora,F,TRUE,FALSE,11,Piltover
+Enforcer,M,TRUE,FALSE,11,Piltover
+Female Enforcer,F,TRUE,FALSE,11,Piltover
+Finn,M,TRUE,FALSE,11,Zaun
+Girl,F,TRUE,FALSE,11,Unknown
+Gorgeous Man,M,TRUE,FALSE,11,Unknown
+Grayson,F,TRUE,FALSE,11,Piltover
+Harold,M,TRUE,FALSE,11,Piltover
+Heimerdinger,M,TRUE,FALSE,11,Piltover
+Hoskel,M,TRUE,FALSE,11,Piltover
+Huck,M,TRUE,FALSE,11,Zaun
+Jayce,M,TRUE,FALSE,3,Piltover
+Jayce's Father,M,TRUE,FALSE,3,Unknown
+Jericho,M,TRUE,FALSE,11,Zaun
+Jinx,F,TRUE,TRUE,1,Zaun
+Jules,F,TRUE,FALSE,11,Zaun
+Kid 3,F,TRUE,FALSE,11,Unknown
+Kino,M,TRUE,FALSE,4,Noxus
+Kino's Murderer,M,TRUE,FALSE,11,Unknown
+Lieutenant,M,TRUE,FALSE,11,Zaun
+Man 1,M,TRUE,FALSE,11,Zaun
+Marcus,M,TRUE,FALSE,6,Piltover
+Master Crafter,M,TRUE,FALSE,11,Piltover
+Mel,F,TRUE,FALSE,4,Piltover
+Mel's Father,M,TRUE,FALSE,4,Noxus
+Mel's Grandfather,M,TRUE,FALSE,4,Noxus
+Miguel,M,TRUE,FALSE,11,Zaun
+Mr. Kiramman,M,TRUE,FALSE,2,Piltover
+Mrs. Kiramman,F,TRUE,FALSE,2,Piltover
+Mylo,M,TRUE,FALSE,11,Zaun
+Mylo (Jinx's Hallucination),M,FALSE,FALSE,11,Zaun
+Powder,F,TRUE,TRUE,1,Zaun
+Ren,F,TRUE,FALSE,6,Piltover
+Renni,F,TRUE,FALSE,7,Zaun
+Renni's Son,M,TRUE,FALSE,7,Zaun
+Rohan,M,TRUE,FALSE,5,Unknown
+Salo,M,TRUE,FALSE,11,Piltover
+Sargeant Billingsworth,M,TRUE,FALSE,11,Piltover
+Sevika,F,TRUE,FALSE,8,Zaun
+Sevika's Father,M,TRUE,FALSE,8,Zaun
+Shoola,F,TRUE,FALSE,11,Piltover
+Silco,M,TRUE,FALSE,11,Zaun
+Singed,M,TRUE,FALSE,9,Zaun
+Singed's Daughter,F,TRUE,FALSE,9,Zaun
+Sky,F,TRUE,FALSE,11,Piltover
+Sky (Letter),F,FALSE,FALSE,11,Piltover
+Sonnem Parlec,M,TRUE,FALSE,11,Unknown
+Stanwick Padidly,M,TRUE,FALSE,11,Piltover
+Thieram,M,TRUE,FALSE,11,Zaun
+Thug 1,M,TRUE,FALSE,11,Zaun
+Thug 2,M,TRUE,FALSE,11,Zaun
+Vander,M,TRUE,FALSE,11,Zaun
+Vander (Vi's Hallucination),M,FALSE,FALSE,11,Zaun
+Verne,M,TRUE,FALSE,11,Zaun
+Vi,F,TRUE,FALSE,1,Zaun
+Vi (Jinx's Hallucination),F,FALSE,FALSE,1,Zaun
+Viktor,M,TRUE,FALSE,11,Piltover
+Vi's Father,M,TRUE,FALSE,1,Zaun
+Vi's Mother,F,TRUE,FALSE,1,Zaun
+Warden,M,TRUE,FALSE,11,Piltover
+Woman,F,TRUE,FALSE,10,Zaun
+Woman's Daughter,F,TRUE,FALSE,10,Zaun
+Ximena,F,TRUE,FALSE,3,Piltover

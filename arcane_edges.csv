@@ -1,0 +1,401 @@
+﻿source,target,weight,episode
+Benzo,Ekko,1,1
+Benzo,Vander,2,1
+Benzo,Marcus,1,1
+Claggor,Vi,2,1
+Claggor,Powder,1,1
+Claggor,Vander,2,1
+Claggor,Ekko,1,1
+Claggor,Jayce,1,1
+Ekko,Claggor,1,1
+Ekko,Vi,2,1
+Ekko,Jayce,4,1
+Ekko,Benzo,1,1
+Grayson,Marcus,2,1
+Grayson,Vander,1,1
+Jules,Vander,2,1
+Mylo,Vi,2,1
+Mylo,Claggor,1,1
+Mylo,Ekko,1,1
+Mylo,Powder,8,1
+Powder,Benzo,1,1
+Powder,Ekko,1,1
+Powder,Vander,1,1
+Powder,Thug 2,1,1
+Silco,Vander,1,1
+Silco,Deckard,3,1
+Thug 1,Deckard,1,1
+Vander,Claggor,1,1
+Vander,Deckard,3,1
+Vander,Ekko,1,1
+Vander,Benzo,1,1
+Vander,Vi,2,1
+Vander,Grayson,1,1
+Verne,Vander,1,1
+Vi,Powder,12,1
+Vi,Vander,2,1
+Vi,Mylo,8,1
+Vi,Ekko,1,1
+Vi,Deckard,2,1
+Vi,Claggor,3,1
+Bolbok,Jayce,1,2
+Caitlyn,Jayce,5,2
+Caitlyn,Mr. Kiramman,1,2
+Claggor,Mylo,1,2
+Claggor,Powder,1,2
+Claggor,Vander,1,2
+Ekko,Vander,1,2
+Elora,Jayce,1,2
+Grayson,Jayce,1,2
+Grayson,Hoskel,1,2
+Grayson,Salo,1,2
+Heimerdinger,Jayce,9,2
+Heimerdinger,Ximena,1,2
+Hoskel,Mel,1,2
+Hoskel,Jayce,1,2
+Jayce,Ximena,4,2
+Jayce,Heimerdinger,1,2
+Marcus,Silco,2,2
+Master Crafter,Mel,1,2
+Mel,Elora,2,2
+Mel,Heimerdinger,1,2
+Mel,Jayce,2,2
+Mel,Hoskel,1,2
+Mr. Kiramman,Jayce,1,2
+Mr. Kiramman,Caitlyn,1,2
+Mr. Kiramman,Mrs. Kiramman,1,2
+Mrs. Kiramman,Jayce,8,2
+Mrs. Kiramman,Caitlyn,2,2
+Mylo,Powder,3,2
+Mylo,Vi,1,2
+Salo,Jayce,1,2
+Sevika,Vander,1,2
+Shoola,Heimerdinger,1,2
+Silco,Marcus,1,2
+Silco,Deckard,2,2
+Vander,Mylo,1,2
+Vander,Claggor,1,2
+Vander,Powder,1,2
+Vander,Vi,1,2
+Vi,Powder,5,2
+Vi,Vander,1,2
+Vi,Ekko,1,2
+Vi,Marcus,1,2
+Viktor,Jayce,1,2
+Viktor,Heimerdinger,1,2
+Ximena,Jayce,6,2
+Benzo,Vander,1,3
+Benzo,Silco,1,3
+Claggor,Vi,2,3
+Ekko,Benzo,1,3
+Ekko,Vander,1,3
+Grayson,Vander,1,3
+Harold,Mel,1,3
+Jayce,Mel,2,3
+Jayce,Viktor,1,3
+Marcus,Silco,1,3
+Mel,Heimerdinger,3,3
+Mel,Harold,1,3
+Mylo,Vander,4,3
+Powder,Vi,11,3
+Silco,Vander,3,3
+Silco,Vi,2,3
+Silco,Powder,1,3
+Vander,Benzo,4,3
+Vander,Vi,4,3
+Vander,Mylo,2,3
+Vander,Silco,2,3
+Vander,Powder,1,3
+Vi,Vander,9,3
+Vi,Benzo,4,3
+Vi,Deckard,2,3
+Vi,Ekko,2,3
+Vi,Powder,3,3
+Vi,Mylo,2,3
+Vi,Claggor,1,3
+Viktor,Heimerdinger,3,3
+Bolbok,Jayce,2,4
+Burly Henchman,Jinx,2,4
+Burly Henchman,Silco,1,4
+Caitlyn,Mrs. Kiramman,3,4
+Caitlyn,Marcus,3,4
+Caitlyn,Burly Henchman,5,4
+Caitlyn,Jayce,1,4
+Duty Capitan,Jayce,1,4
+Duty Capitan,Caitlyn,1,4
+Elora,Ambessa,1,4
+Elora,Jayce,1,4
+Enforcer,Marcus,1,4
+Female Enforcer,Caitlyn,1,4
+Heimerdinger,Jayce,3,4
+Heimerdinger,Stanwick Padidly,4,4
+Heimerdinger,Viktor,2,4
+Heimerdinger,Mel,1,4
+Jayce,Heimerdinger,6,4
+Jayce,Stanwick Padidly,2,4
+Jayce,Viktor,1,4
+Jayce,Caitlyn,3,4
+Jayce,Mrs. Kiramman,2,4
+Jinx,Vi,2,4
+Jinx,Sevika,4,4
+Jinx,Silco,3,4
+Lieutenant,Jinx,1,4
+Marcus,Caitlyn,2,4
+Marcus,Mrs. Kiramman,1,4
+Mel,Ambessa,1,4
+Mel,Jayce,6,4
+Mel,Heimerdinger,3,4
+Mrs. Kiramman,Jayce,3,4
+Sevika,Silco,1,4
+Sevika,Jinx,3,4
+Shoola,Mel,1,4
+Silco,Jinx,6,4
+Silco,Vi,1,4
+Silco,Sevika,2,4
+Viktor,Heimerdinger,2,4
+Warden,Burly Henchman,3,4
+Amara,Mel,1,5
+Amara,Jayce,2,5
+Amara,Bolbok,1,5
+Babette,Vi,1,5
+Babette,Vander,2,5
+Babette,Silco,3,5
+Babette,Sevika,2,5
+Babette,Miguel,1,5
+Caitlyn,Burly Henchman,3,5
+Caitlyn,Silco,5,5
+Caitlyn,Jayce,1,5
+Caitlyn,Vi,3,5
+Caitlyn,Jericho,1,5
+Claggor (Jinx's Hallucination),Mylo,1,5
+Claggor (Jinx's Hallucination),Powder,1,5
+Elora,Jayce,1,5
+Grayson,Caitlyn,2,5
+Jayce,Viktor,3,5
+Jayce,Marcus,1,5
+Jayce,Hoskel,1,5
+Jayce,Salo,1,5
+Jayce,Mel,1,5
+Jayce,Jayce's Father,1,5
+Jinx,Singed,1,5
+Jinx,Vander,1,5
+Marcus,Grayson,1,5
+Marcus,Jinx,3,5
+Marcus,Jayce,4,5
+Mel,Amara,3,5
+Mel,Jayce,6,5
+Mel,Rohan,1,5
+Mel,Bolbok,2,5
+Ren,Marcus,1,5
+Sevika,Vi,3,5
+Sevika,Vander,1,5
+Sevika,Jinx,5,5
+Sevika,Silco,2,5
+Silco,Marcus,4,5
+Silco,Jinx,3,5
+Silco,Vander,1,5
+Silco,Powder,1,5
+Vi,Silco,6,5
+Vi,Powder,6,5
+Vi,Jericho,1,5
+Vi,Caitlyn,3,5
+Vi,Sevika,1,5
+Vi (Jinx's Hallucination),Vander,1,5
+Viktor,Jayce,2,5
+Viktor,Sky,1,5
+Warden,Vi,1,5
+Warden,Jayce,1,5
+Caitlyn,Silco,2,6
+Caitlyn,Vi,5,6
+Caitlyn,Sevika,1,6
+Caitlyn,Jinx,2,6
+Caitlyn,Powder,2,6
+Ekko,Vi,1,6
+Heimerdinger,Viktor,4,6
+Heimerdinger,Jayce,3,6
+Huck,Vi,5,6
+Huck,Vander,1,6
+Huck,Apothecary,2,6
+Jayce,Viktor,6,6
+Jayce,Sky,1,6
+Jayce,Heimerdinger,5,6
+Jinx,Thieram,3,6
+Jinx,Sevika,2,6
+Jinx,Vi,5,6
+Jinx,Marcus,1,6
+Jinx,Caitlyn,1,6
+Jinx,Powder,1,6
+Kid 3,Sky,1,6
+Marcus,Vi,2,6
+Marcus,Caitlyn,6,6
+Mel,Viktor,1,6
+Mel,Jayce,1,6
+Mel,Heimerdinger,1,6
+Sevika,Vi,7,6
+Sevika,Caitlyn,1,6
+Sevika,Silco,1,6
+Sevika,Jinx,1,6
+Silco,Marcus,3,6
+Silco,Ren,1,6
+Silco,Vi,9,6
+Silco,Vander,4,6
+Silco,Caitlyn,2,6
+Silco,Jinx,4,6
+Thieram,Silco,1,6
+Thieram,Vi,1,6
+Thieram,Sevika,2,6
+Vi,Jinx,1,6
+Vi,Powder,13,6
+Vi,Caitlyn,2,6
+Viktor,Heimerdinger,2,6
+Viktor,Jayce,1,6
+Viktor,Singed,1,6
+Caitlyn,Silco,4,7
+Caitlyn,Jinx,2,7
+Caitlyn,Vi,7,7
+Caitlyn,Ekko,1,7
+Caitlyn,Jayce,3,7
+Caitlyn,Marcus,1,7
+Ekko,Jinx,5,7
+Ekko,Silco,8,7
+Ekko,Caitlyn,1,7
+Ekko,Vander,1,7
+Ekko,Vi,3,7
+Ekko,Powder,1,7
+Finn,Silco,2,7
+Finn,Jinx,1,7
+Jayce,Marcus,2,7
+Jayce,Heimerdinger,3,7
+Jayce,Mel,2,7
+Jayce,Viktor,3,7
+Jayce,Caitlyn,1,7
+Jayce,Singed,1,7
+Jinx,Vi,5,7
+Jinx,Caitlyn,4,7
+Jinx,Ekko,1,7
+Marcus,Jayce,1,7
+Marcus,Ren,1,7
+Mel,Heimerdinger,3,7
+Mel,Jayce,4,7
+Mel,Viktor,1,7
+Mel,Caitlyn,1,7
+Mylo (Jinx's Hallucination),Vi,2,7
+Mylo (Jinx's Hallucination),Caitlyn,2,7
+Renni,Finn,1,7
+Sevika,Marcus,1,7
+Sevika,Silco,1,7
+Sevika,Jinx,2,7
+Sevika,Sevika's Father,1,7
+Silco,Marcus,2,7
+Silco,Vi,4,7
+Silco,Caitlyn,2,7
+Silco,Jinx,3,7
+Silco,Finn,1,7
+Singed,Heimerdinger,1,7
+Vi,Silco,1,7
+Vi,Ekko,3,7
+Vi,Powder,6,7
+Vi,Caitlyn,4,7
+Viktor,Jayce,2,7
+Viktor,Singed,3,7
+Ambessa,Mel's Grandfather,3,8
+Ambessa,Kino,4,8
+Ambessa,Mel,8,8
+Ambessa,Girl,4,8
+Ambessa,Elora,1,8
+Ambessa,Mel's Father,1,8
+Ambessa,Jayce,3,8
+Ambessa,Gorgeous Man,2,8
+Ambessa,Sonnem Parlec,4,8
+Bolbok,Silco,1,8
+Caitlyn,Vi,5,8
+Caitlyn,Silco,4,8
+Caitlyn,Jinx,1,8
+Caitlyn,Marcus,1,8
+Caitlyn (Jinx's Hallucination),Jinx,1,8
+Ekko,Heimerdinger,1,8
+Finn,Silco,9,8
+Finn,Sevika,2,8
+Finn,Jinx,2,8
+Gorgeous Man,Ambessa,1,8
+Heimerdinger,Ekko,1,8
+Jayce,Mel,1,8
+Jayce,Ambessa,1,8
+Jayce,Silco,3,8
+Jayce,Jinx,1,8
+Jinx,Vi,1,8
+Man 1,Heimerdinger,1,8
+Mel,Kino,1,8
+Mel,Girl,2,8
+Mel,Ambessa,1,8
+Mel,Jayce,1,8
+Mr. Kiramman,Caitlyn,2,8
+Mrs. Kiramman,Caitlyn,4,8
+Mrs. Kiramman,Vi,2,8
+Mrs. Kiramman,Marcus,1,8
+Salo,Marcus,2,8
+Salo,Mel,1,8
+Sargeant Billingsworth,Jayce,2,8
+Sevika,Silco,2,8
+Sevika,Finn,1,8
+Silco,Jinx,6,8
+Silco,Singed,1,8
+Singed,Jinx,4,8
+Singed,Singed's Daughter,1,8
+Sky,Viktor,7,8
+Vi,Powder,6,8
+Vi,Jinx,1,8
+Vi,Silco,9,8
+Vi,Caitlyn,3,8
+Vi,Vander,1,8
+Vi,Jayce,1,8
+Vi (Jinx's Hallucination),Powder,2,8
+Vi (Jinx's Hallucination),Jinx,1,8
+Viktor,Sky,2,8
+Woman,Woman's Daughter,1,8
+Ambessa,Mel,3,9
+Ambessa,Jayce,1,9
+Ambessa,Kino,1,9
+Ambessa,Kino's Murderer,1,9
+Caitlyn,Vi,1,9
+Caitlyn,Jinx,1,9
+Finn,Vander,1,9
+Finn,Silco,3,9
+Jayce,Renni's Son,1,9
+Jayce,Jinx,3,9
+Jayce,Viktor,1,9
+Jinx,Vi,2,9
+Jinx,Silco,7,9
+Jinx,Vander,2,9
+Jinx,Caitlyn,5,9
+Jinx,Powder,1,9
+Mel,Jayce,2,9
+Mrs. Kiramman,Jayce,1,9
+Renni,Jayce,1,9
+Renni,Renni's Son,1,9
+Renni,Jinx,3,9
+Renni,Silco,1,9
+Sevika,Jinx,1,9
+Sevika,Finn,2,9
+Silco,Marcus,2,9
+Silco,Renni's Son,3,9
+Silco,Renni,2,9
+Silco,Finn,1,9
+Silco,Jayce,2,9
+Silco,Jinx,4,9
+Silco,Vander,2,9
+Silco,Vi,4,9
+Sky (Letter),Viktor,1,9
+Vander (Vi's Hallucination),Vi,2,9
+Vander (Vi's Hallucination),Powder,1,9
+Vi,Renni's Son,3,9
+Vi,Silco,4,9
+Vi,Powder,8,9
+Vi,Caitlyn,1,9
+Vi,Mylo,1,9
+Vi,Claggor,1,9
+Vi,Vander,1,9
+Vi,Vi's Father,1,9
+Vi,Vi's Mother,1,9
+Viktor,Jayce,1,9
+Viktor,Silco,1,9
