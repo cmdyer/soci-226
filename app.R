@@ -1,28 +1,24 @@
-# Shiny App 
-# Section 1. First install and activate all your required packages. 
-
 library(shiny)
 library(bslib)
-
 library(tidyverse)
 library(igraph)
 library(tidygraph)
 library(ggraph)
-
 library(visNetwork)
 
-# Section 2. Design the site in the UI section (UI = User Interface). This is where we define how everything looks and 
-# how people can use the app. 
 
 ui <-fluidPage(
   
-  titlePanel("This is where your title goes"),
+  titlePanel("Arcane Season 1 Character Reference"),
   
   page_sidebar(
-    title = "subtitle here", 
+    title = "Analysis of character-to-character reference in the first season of Arcane", 
     sidebar = sidebar ("Menu options"), 
     card(
-      card_header("Here's where I would introduce your project"), "put some content here"),
+      card_header("Introduction"), "For the edges data, I manually collected the occurrences of each character mentioning another character. 
+      I decided to exclude uses of “you,” “we,” or the plural “they” to limit the data to only individual characters mentioning one other individual.
+       I also chose to include mentions of characters by descriptions such as “some guy” when it was clear that the “source” character was referencing a specific, known person. 
+      Only one mention of another character was counted per sentence."),
     card(
       card_header("Dynamic Demo 1"), "you could put a caption like so",
       selectInput("select", 
@@ -111,7 +107,7 @@ server <- function(input, output) {
                             directed = TRUE) 
     
     ep9 <- arcane_net |> activate(edges) |> filter(episode == 9) |>
-      activate(nodes) |> mutate(degree = (centrality_degree(mode = "out") + centrality_degree(mode = "in"))) |>
+      activate(nodes) |> mutate(degree = centrality_degree(mode = "all")) |>
       filter(degree > 0)
     
     
