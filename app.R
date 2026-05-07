@@ -76,7 +76,7 @@ ui <-fluidPage(
     #interactive
     card(card_header("Interactive Network"), 
          "Interact with the characters to see their connections",
-         selectInput("size",
+         selectInput("size2",
                      "Choose an Episode", 
                      choices = list("Episode 1" = 1, 
                                     "Episode 2" = 2,
@@ -163,7 +163,7 @@ server <- function(input, output) {
   
   #make network
   network2 <- reactive({
-    arcane_net <- arcane_net |> activate(edges) |> filter(episode == input$size) |>
+    arcane_net <- arcane_net |> activate(edges) |> filter(episode == input$size2) |>
       activate(nodes) |> mutate(degree = centrality_degree(mode = "all")) |>
       filter(degree > 0)
     
