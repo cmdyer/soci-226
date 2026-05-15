@@ -87,7 +87,7 @@ ui <- fluidPage(
                   By looking at degree, we can see what characters were talked about- and talking about others- the most.
                   However, by looking at betweenness centrality, we can see that not all the characters with a high degree were in broker positions.
                   A high degree may convey a sense of importance to the viewer, as they are often on screen talking about others and/or their name comes up in conversation frequently.
-                  Yet the betweenness centrality reveals that within the world of the show, certain characters play more important connecting roles socially.
+                  Yet the betweenness centrality reveals that within the world of the show, certain characters play more important connecting roles in society.
                   To limit the data to a reasonable scope, all characters with a degree of 1 were removed.
                   This removes all characters who were mentioned, or mentioned someone else, only one time.",
                   layout_sidebar(sidebar = list(
@@ -114,13 +114,15 @@ ui <- fluidPage(
                   "Assortativity measures the likelihood of nodes to be highly connected with other nodes that share a certain property.
                   For this network, the two attributes that would provide the most interesting look into assortativity were residence and family.
                   'Known Families' is a subset of the data, with all characters of unknown families removed.
+                  We can see that residence is the only attribute that showed moderate assortativity.
+                  This indicates that characters were more likely to have strong connections with other characters when they are both from the same place.
                   ",
                   tableOutput("assort")
                 ),
                 card(
                   card_header("Full Network Visualization"),
                   "View the full season network, with nodes sized by the chose centrality measure.
-                  Nodes are colored by place of residence.
+                  Nodes are colored by place of residence, in order to show the relationship described above.
                   Characters with a degree less than 1 were removed in order to improve the readability of the visualization.",
                   radioButtons(
                     "measure2",
@@ -230,7 +232,7 @@ ui <- fluidPage(
                 #interactive
                 card(
                   card_header("Interactive Network"),
-                  "Interact with the characters to see their connections",
+                  "Interact with the characters to see their connections.",
                   selectInput(
                     "ep2",
                     "Choose an Episode",
